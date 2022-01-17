@@ -2,7 +2,7 @@
 
 # FreeMembers+
 
-[![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/j4jfr)
+[![](https://img.shields.io/discord/929192992160481331.svg?logo=discord&colorB=7289DA)](https://discord.gg/j4jfr)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/niondiscord)
 
