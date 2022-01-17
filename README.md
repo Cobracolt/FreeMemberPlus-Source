@@ -10,6 +10,7 @@
 
 * Date de création: Crée le 01 janvier 2022
 * Date de mise en ligne Github: Le 17 janvier 2022
+* Aussi je pise dans la bouche à GalackQCM.
 
 FreeMembers+ est un bot Discord join4join codé en JavaScript avec [Discord.js v12](https://discord.js.org) par [>Nion](https://github.com/nionledev).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
