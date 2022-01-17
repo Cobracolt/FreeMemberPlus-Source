@@ -8,6 +8,8 @@
 
 > Ce bot est utilisé par plus de 12k utilisateurs Discord et plus de 99 serveurs.
 
+* Comment host la source du bot [Documentation](https://github.com/nionledev/FreeMemberPlus-Source/HELP.md
+
 * Date de création: Crée le 01 janvier 2022
 * Date de mise en ligne Github: Le 17 janvier 2022
 
