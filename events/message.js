@@ -49,11 +49,9 @@ module.exports = {
     let data = await get(message, message.author) 
     
     let embed1 = new Discord.MessageEmbed()
-    .setTitle('❎ Ban system')
-    .setDescription(`❎ - Viens dêtre ban du **systeme**`)
+    .setDescription(`Vous pouvez executer aucune commande, car vous avez été ban du système.\nContacter \`>Nion#0001\` pour être deban !`)
     .setColor('#2f3136')
-    .setFooter(config.EmbedFooter)
-    if (data.banned == true && message.author.id !== "750348126363320380") return message.channel.send(embed1)
+    if (data.banned == true && message.author.id !== "tozzz") return message.channel.send(embed1)
     
     try {
     command.execute(client, message, args, data, db)
