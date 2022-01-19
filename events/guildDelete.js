@@ -3,7 +3,7 @@ const Discord = require('discord.js')
 module.exports = {
   execute: async(client, guild) => {
 
-    let channel = client.channels.cache.get("929195392892026902")
+    let channel = client.channels.cache.get("ID DU SALON LOGS SERVEUR")
  
 
 const embed = new Discord.MessageEmbed()
