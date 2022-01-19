@@ -5,3 +5,5 @@
 * 4- Faite la commande `npm install` (**Avoir NodeV12**).
 * 5- Allez dans le fichier `exemple.config.jon` et le remplir, puis créer un fichier `json.sqlite`.
 * 6- Après faite dans le CMD `node sharder.js`.
+
+Si vous avez besoin d'aide, contacter sur Discord `>Nion#0001` !
