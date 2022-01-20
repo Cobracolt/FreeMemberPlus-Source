@@ -1,7 +1,7 @@
 const Discord = require('discord.js'); 
 const client = new Discord.Client(); 
 client.interaction = {};
-const config = require('./config.json');
+const config = require('../config.json');
 const DiscordButtons = require('discord-buttons'); 
 const ButtonPages = require('discord-button-pages'); 
 DiscordButtons(client);
