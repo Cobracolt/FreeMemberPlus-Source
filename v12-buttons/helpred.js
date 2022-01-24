@@ -43,4 +43,4 @@ client.on('clickButton', (button) => {
   }
 });
 
-client.login("config.token2");
+client.login(config.token2);
