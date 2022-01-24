@@ -27,7 +27,7 @@ test.on('shardCreate', shard => console.log(`[Shard] -> #${shard.id} viens de ce
 
 //Pour start le bot #1
 
-const help = new ShardingManager('./commands/help.js', {
+const help = new ShardingManager('./v12-buttons/help.js', {
     token: token,
     totalShards: 1
 });
@@ -39,7 +39,7 @@ help.on('shardCreate', shard => console.log(`[Shard] -> #${shard.id} viens de ce
 
 //Pour start le bot #2
 
-const helpred = new ShardingManager('./commands/helpred.js', {
+const helpred = new ShardingManager('./v12-buttons/helpred.js', {
     token: token,
     totalShards: 1
 });
