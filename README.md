@@ -2,18 +2,18 @@
 
 # FreeMembers+
 
-[![](https://img.shields.io/discord/929192992160481331.svg?logo=discord&colorB=7289DA)](https://discord.gg/j4jfr)
+[![](https://img.shields.io/discord/929192992160481331.svg?logo=discord&colorB=7289DA)](https://discord.gg/giftix)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/niondiscord)
 
 > Ce bot est utilisé par plus de 12k utilisateurs Discord et plus de 99 serveurs.
 
-* Comment host la source du bot [Documentation](https://github.com/nionledev/FreeMemberPlus-Source/blob/main/HELP.md)
+* Comment host la source du bot [Documentation](https://github.com/ceedledev/FreeMemberPlus-Source/blob/main/HELP.md)
 
 * Date de création: Crée le 01 janvier 2022
 * Date de mise en ligne Github: Le 17 janvier 2022
 
-FreeMembers+ est un bot Discord join4join codé en JavaScript avec [Discord.js v12](https://discord.js.org) par [>Nion#0001](https://github.com/nionledev).  
+FreeMembers+ est un bot Discord join4join codé en JavaScript avec [Discord.js v12](https://discord.js.org) par [Ceed#0001](https://github.com/ceedledev).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
 ### Les commandes
@@ -27,8 +27,8 @@ FreeMembers+ a beaucoup de fonctionnalités pour gagner des membres:
 
 ## Links
 
-*   [Discord](https://discord.gg/j4jfr)
-*   [Github](https://github.com/nionledev)
+*   [Discord](https://discord.gg/giftix)
+*   [Github](https://github.com/ceedledev)
 
 ## License
 
